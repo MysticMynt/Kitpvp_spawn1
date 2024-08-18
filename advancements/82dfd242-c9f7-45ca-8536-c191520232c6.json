@@ -1,0 +1,63 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-08-16 23:53:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-08-16 23:54:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-08-16 23:54:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-08-16 23:54:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2024-08-16 23:54:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-08-16 23:54:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-08-16 23:54:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-08-16 23:54:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-08-16 23:54:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-08-16 23:54:12 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3337
+}
